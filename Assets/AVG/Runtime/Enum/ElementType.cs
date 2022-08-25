@@ -4,6 +4,7 @@
     {
         View,
         Text,
-        Avatar
+        Avatar，
+        Sound
     }
 }
